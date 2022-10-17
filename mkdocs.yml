@@ -1,4 +1,5 @@
 site_name: My Docs
+site_url: https://aceberg.github.io/TryMkDocs/
 theme:
   name: material
   palette: 
@@ -14,3 +15,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+plugins:
+  - blogging:
+      features:
+        tags: {}
+      dirs: # The directories to be included
+        - blog
