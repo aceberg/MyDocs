@@ -15,5 +15,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 plugins:
+  - git-revision-date-localized
   - tags:
       tags_file: tags.md
