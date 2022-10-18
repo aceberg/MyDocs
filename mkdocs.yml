@@ -19,4 +19,5 @@ theme:
 plugins:
   - git-revision-date-localized
   - tags:
+      enabled: true
       tags_file: tags.md
