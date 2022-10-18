@@ -1,8 +1,7 @@
-# This is test file
-
-
 ---
 tags:
  - testing
  - unimportant
 ---
+
+# This is test file

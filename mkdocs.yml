@@ -1,11 +1,14 @@
 site_name: My Docs
 repo_url: https://github.com/aceberg/TryMkDocs
+repo_name: aceberg/TryMkDocs
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   palette: 
     # Palette toggle for light mode
     - scheme: default
-      primary: purple
+      primary: light green
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -17,8 +20,19 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 plugins:
-  - git-revision-date
+  - git-revision-date-localized:
+      enable_creation_date: true
   - search
   - tags:
-      enabled: true
       tags_file: tags.md
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/
+      name: Follow on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/aceberg/
+      name: Follow on GitHub
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/aceberg
+      name: Follow on DockerHub
