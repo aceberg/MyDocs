@@ -1,7 +1,7 @@
-# Hosting your own PPA repository on GitHub
+# PPA on GitHub
 
-This is a copy of how-to written by Assaf Morami. Original post can be found here:   
-https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html
+## This is a copy of how-to written by Assaf Morami. Original post can be found here:   
+[https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
 
 Publishing your own Debian packages and hosting it on a GitHub repo is pretty easy. This is a quick HowTo.
 
