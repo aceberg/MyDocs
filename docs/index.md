@@ -5,7 +5,7 @@ My name is Andrew, I’m currently working as Linux admin. I like easily configu
 
 ### Hire me
 
-- I can create a simple Golang app for you for a minimum price (starts at 100 USDT)
+- I can create a simple Golang app for you for a minimum price (starts at $100)
 
 - 📫 How to reach me: aceberg_a@proton.me
 
