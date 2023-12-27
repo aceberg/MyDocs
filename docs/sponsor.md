@@ -1,19 +1,28 @@
 # Sponsor
 ## Hi there 👋
 
-My name is Andrew, I’m currently working as Linux admin. I like easily configurable lightweight apps, that's why I choose Go for my Open Source projects. 
+My name is Andrew, I am Linux admin and Self-Hosted apps developer.   
+I'm open for freelance work as sysadmin or developer.
 
-### Hire me
+### What can I do?
 
-- I can create a simple Golang app for you for a minimum price (starts at $100)
+| Work | Price |
+| --------  | ----------- |
+| Ansible playbook, Bash script, Dockerfile |starts at $10 |
+| Configure Linux server: Docker, Firewall, Monitoring, Backups and anything else | $10 per hour or fixed price for fixed amount of work |
+| Golang app with web GUI | starts at $100 |
+| Add feature to an existing app | starts at $50 |
+|  |  |
 
-- 📫 How to reach me: aceberg_a@proton.me
+All prices can be negotiated. Please, contact me aceberg_a@proton.me
 
-### Support my Open Source work
+I will continue working on Open Source projects no matter what, but I need to pay the bills, so if you can [donate](https://github.com/aceberg#support) or want to order your personal selfhosted app, be my guest ✨
 
-If you like any of my apps, here are the ways you can support me:
 
-- With USD or RUB: [https://boosty.to/aceberg/donate](https://boosty.to/aceberg/donate)
-- BTC: `bc1qj59rxmfvanvqqltq9t73qls4su3xrvwuv3sxhr`    
-- ETH: `0x276124c218aa8110F96989AA1f6f2Bb960C234B7`     
-- USDT (ETH Network): `0x276124c218aa8110F96989AA1f6f2Bb960C234B7`
+### Support 
+
+If you find my Open Source work helpful, here are ways you can support it:
+- **PayPal**, **QiWi**, **Bank Card** ($USD or RUB): [boosty](https://boosty.to/aceberg/donate)
+- **BTC**: ```bc1qj59rxmfvanvqqltq9t73qls4su3xrvwuv3sxhr```
+- **ETH**: ```0x276124c218aa8110F96989AA1f6f2Bb960C234B7```
+- **USDT** (ETH Network): ```0x276124c218aa8110F96989AA1f6f2Bb960C234B7```
